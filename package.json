@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "express": "^4.21.0",
+    "mongodb": "^6.9.0"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "week 1 backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gawahlb/cse341_week1.git"
+  },
+  "author": "Gabriel Wahlberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gawahlb/cse341_week1/issues"
+  },
+  "homepage": "https://github.com/gawahlb/cse341_week1#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
